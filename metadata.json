@@ -1,0 +1,6 @@
+{
+  "name": "کارآزما | Karamazma - AnalytixHire",
+  "description": "پلتفرم اختصاصی جذب، استخدام و مدیریت تحلیلگران بازارهای مالی و داده و سامانه ربات هوشمند استخدام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
